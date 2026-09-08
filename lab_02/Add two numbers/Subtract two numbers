@@ -9,5 +9,4 @@ scanf("%d",&a);
 scanf("%d",&b);
 printf("%d",c);
 return 0
-
-]
+}
